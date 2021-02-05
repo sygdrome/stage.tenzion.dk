@@ -1,0 +1,16 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tenzion",
+    "home_page_url": "stage.tenzion.dk/stage.tenzion.dk/",
+    "feed_url": "stage.tenzion.dk/stage.tenzion.dk/feed.json",
+    "description": "",
+    "icon": "stage.tenzion.dk/stage.tenzion.dk/apple-touch-icon.png",
+    "favicon": "stage.tenzion.dk/stage.tenzion.dk/favicon.ico",
+    "expired": false,
+    
+    "author": "Tenzion",
+    
+"items": [
+    
+    ]
+}
